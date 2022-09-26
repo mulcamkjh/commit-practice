@@ -28,7 +28,7 @@
 
 4. Git의 3가지 공간에는 Working Directory, Staging Area, Commits이 있다. (맞으면 O, 틀리면 X)
    - 답 : X
-   - 이유 : commits이 아니고 repository이다
+   - 이유 : commits이 아닌 repository이다 (commits 변경사항을 기록하는 공간)
 
 
 
